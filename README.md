@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Blk-Sws-Def
-- 👀 I’m interested in video games, science, books, drawing/painting
-- 🌱 I’m currently learning Java/Python/C++
-- 💞️ I’m looking to collaborate on: nothing currently.
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on: nothing
 - 📫 How to reach me: ??.
-- 😄 Pronouns: He/Him
+- 😄 Pronouns:
 - ⚡ Fun fact: Kiwi birds lay an egg close in size to an ostrich egg.
 
 <!---
